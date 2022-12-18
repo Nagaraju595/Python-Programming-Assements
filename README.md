@@ -1,2 +1,2 @@
-# Python-Programming-Assements
+# Python-Programming-Assignments
 Python Programming Assignment1
